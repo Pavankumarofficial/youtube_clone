@@ -19,3 +19,8 @@ This project is a simple YouTube Clone created using HTML and CSS. The aim is to
 4 columns for large screens.
 3 columns for medium screens.
 2 columns for small screens.
+## 5. Responsive Design
+Media queries to ensure the design is user-friendly across various devices and screen sizes.
+# Technologies Used
+->HTML5: For structuring the content of the webpage.
+->CSS3: For styling and layout, including Flexbox and Grid.
