@@ -12,4 +12,10 @@ This project is a simple YouTube Clone created using HTML and CSS. The aim is to
 ## 3.Sidebar
 -> Fixed sidebar with icons for navigation (e.g., Home, Explore, Subscriptions, Library, etc.).
 -> Hover effects for improved user interaction.
-
+## 4. Video Grid
+->Responsive grid layout for video thumbnails.
+->Includes video title, author, views, and duration.
+->Adjusts the number of columns based on screen size using media queries:
+4 columns for large screens.
+3 columns for medium screens.
+2 columns for small screens.
