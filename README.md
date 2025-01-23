@@ -24,3 +24,5 @@ Media queries to ensure the design is user-friendly across various devices and s
 # Technologies Used
 ->HTML5: For structuring the content of the webpage.
 ->CSS3: For styling and layout, including Flexbox and Grid.
+# youtube clone image
+https://github.com/Pavankumarofficial/youtube_clone/blob/90b12fc85401a413d742fb2d80f3caccd4abf08c/Screenshot%202025-01-23%20095228.png
